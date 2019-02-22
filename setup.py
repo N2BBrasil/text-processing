@@ -8,7 +8,7 @@ except:
 
 setuptools.setup(
     name="text_processing",
-    version="0.0.1",
+    version="0.0.2",
     author="Samuel Heinrichs",
     author_email="samuel@n2bbrasil.com",
     description="Text processing helpers",
